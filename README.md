@@ -2,7 +2,7 @@
 
 Description: It will feels much convenient to have a function in your phone that can automatically sort your photos into travel, people, foods, etc. And this is actually an image classification problem that mattered and are explored in many fields. Therefore, this project will probe into this problem using simple algorithms and superior algorithms, and compare their performance for deeper understanding.  
 ## Dataset
-Four categories of photographs will be collected by simply searching on google. Specifically, type in "Photography of people", "Photography of scenery", "Photography of foods", "Photography of people", and download them separately with resolution of 100 x 100 px. In this case the labels of the images are automatically generated. Each category will contain 500 images, then 2000 example in total for this project.
+Four categories of photographs will be collected by simply searching on google. Specifically, type in "Photography of people", "Photography of scenery", "Photography of foods", and download them separately with resolution of 100 x 100 px. In this case the labels of the images are automatically generated. Each category will contain 500 images, then 1500 example in total for this project.
 
 
 Backup data source: ImageNet. http://image-net.org/. Also a diverse database site for image classification problems.
